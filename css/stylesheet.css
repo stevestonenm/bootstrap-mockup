@@ -1,0 +1,30 @@
+/***********************************************
+* this is for the bootstrap challenge.
+* This is really my first attempt so we will see
+* how it looks.
+***********************************************/
+
+/**********************************************
+* global styles
+***********************************************/
+
+
+/**********************************************
+* jumbotron section
+***********************************************/
+
+
+/**********************************************
+* first section
+***********************************************/
+section {
+	background: lightgray;
+	color: #555;
+	padding: 5rem;
+}
+
+img[alt="kitten"] {
+	width: 300px;
+	height: auto;
+	margin-right: 3rem;
+}

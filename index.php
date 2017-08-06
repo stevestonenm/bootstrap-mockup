@@ -15,6 +15,7 @@
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css" rel="stylesheet" />
 
 		<!--custom css goes here-->
+		<link rel="stylesheet" href="css/stylesheet.css" type="text/css">
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
@@ -67,6 +68,24 @@
 				<p><a class="btn btn-primary btn-lg" href="https://en.wikipedia.org/wiki/What_About_Bob%3F"  target="_blank" role="button">Learn More</a></p>
 			</div><!--closes /.container-->
 		</div><!--closes /.jumbotron-->
+
+		<!-- first section-->
+		<section>
+			<div	class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<img src="images/kitten1.jpg" class="img-responsive" alt="kitten">
+					</div>
+					<div class="col-md-9">
+						<p>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalanche, it took us a week to climb out. Now, I don't know exactly when we turned on each other, but I know that seven of us survived the slide... and only five made it out. Now we took an oath, that I'm breaking now. We said we'd say it was the snow that killed the other two, but it wasn't. Nature is lethal but it doesn't hold a candle to man.
+						</p>
+						<p>Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
 	</body>
 
 </html>
