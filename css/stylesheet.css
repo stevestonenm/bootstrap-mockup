@@ -18,13 +18,19 @@
 * first section
 ***********************************************/
 section {
-	background: lightgray;
+	background-color: lightgray;
 	color: #555;
-	padding: 5rem;
+	padding: 3rem;
 }
 
+
 img[alt="kitten"] {
-	width: 300px;
-	height: auto;
-	margin-right: 3rem;
+	width: 20rem;
+	height: 18rem;
+}
+
+img[alt="little kitten"] {
+	width: 100px;
+	height: 100px;
+	margin: 3rem;
 }
