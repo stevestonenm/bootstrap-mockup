@@ -91,15 +91,19 @@
 			<div class="row">
 				<div class="col-md-3">
 					<img src="images/kitten1.jpg"  class="img-circle" class="img-responsive" alt="little kitten">
+					<p>Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way he talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?</p>
 				</div>
 				<div class="col-md-3">
 					<img src="images/kitten1.jpg"  class="img-circle" class="img-responsive" alt="little kitten">
+					<p>Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way he talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?</p>
 				</div>
 				<div class="col-md-3">
 					<img src="images/kitten1.jpg"  class="img-circle" class="img-responsive" alt="little kitten">
+					<p>Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way he talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?</p>
 				</div>
 				<div class="col-md-3">
 					<img src="images/kitten1.jpg"  class="img-circle" class="img-responsive" alt="little kitten">
+					<p>Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way he talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?</p>
 				</div>
 			</div>
 		</div>
