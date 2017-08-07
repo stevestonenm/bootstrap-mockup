@@ -31,13 +31,31 @@ img[alt="kitten"] {
 	height: 18rem;
 }
 
+/*************************************
+* 4 image section
+**************************************/
+
 img[alt="little kitten"] {
 	width: 200px;
 	height: 200px;
-	margin: 2rem;
+	margin: 3rem 0 3rem 0;
 }
 
 .col-md-3 p {
 	border: 2px solid black;
 	padding: 0.5rem;
+	margin-bottom: 10rem;
+}
+
+/*************************************
+* footer
+**************************************/
+
+.footer {
+	height: 10rem;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	background-color: black;
+	color: white;
 }

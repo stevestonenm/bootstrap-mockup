@@ -108,6 +108,12 @@
 			</div>
 		</div>
 
+		<footer class="footer">
+			<div class="container">
+				<p>This is the Footer Text</p>
+			</div>
+		</footer>
+
 
 	</body>
 
